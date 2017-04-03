@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Catherine\\Documents\\_FYP\\Tensorflow\\StressModel\\trained_models/stress_model.sd"
+all_model_checkpoint_paths: "C:\\Users\\Catherine\\Documents\\_FYP\\Tensorflow\\StressModel\\trained_models/stress_model.sd"
